@@ -14,7 +14,7 @@
 | Maria Fernanda |  [Mafe's GitHub](https://github.com/Madhs31) |
 | Raphaela Monteiro | [Raphaela's GitHub](https://github.com/raphaelamonteiro) |
 | Renan Tomasi |  [Renan's GitHub](https://github.com/renan21-tg) |
-| Vitor Inacio | --- | 
+| Vitor Inacio | [Vitor's GitHub](https://github.com/VitorRibeiro024) | 
 
  
 <div style="display: inline_block"><br>
