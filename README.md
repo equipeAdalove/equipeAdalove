@@ -9,7 +9,7 @@
 | --- | --- |
 |Angelina Borroni | [Angelina's GitHub](https://github.com/borronif) |
 | Celso Junior |  [Celso's GitHub](https://github.com/celsick) |
-| João Pedro | --- | 
+| João Pedro | [João's GitHub](https://github.com/JoaoPedroCava) | 
 | Maria Fernanda |  [Mafe's GitHub](https://github.com/Madhs31) |
 | Raphaela Monteiro | [Raphaela's GitHub](https://github.com/raphaelamonteiro) |
 | Renan Tomasi |  [Renan's GitHub](https://github.com/renan21-tg) |
