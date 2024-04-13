@@ -8,7 +8,7 @@
 | Nome | GitHub Profile |
 | --- | --- |
 |Angelina Borroni | [Angelina's GitHub](https://github.com/borroniff) |
-| Celso Junior |  [Celso's GitHub](https://github.com/celsick) |
+| Celso Rocha |  [Celso's GitHub](https://github.com/celsick) |
 | João Pedro | [João's GitHub](https://github.com/JoaoPedroCava) | 
 | Maria Fernanda |  [Mafe's GitHub](https://github.com/Madhs31) |
 | Raphaela Monteiro | [Raphaela's GitHub](https://github.com/raphaelamonteiro) |
