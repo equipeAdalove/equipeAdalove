@@ -13,17 +13,22 @@
 | Maria Fernanda |  [Mafe's GitHub](https://github.com/Madhs31) |
 | Raphaela Monteiro | [Raphaela's GitHub](https://github.com/raphaelamonteiro) |
 | Renan Tomasi |  [Renan's GitHub](https://github.com/renan21-tg) |
-| Vitor Inacio | [Vitor's GitHub](https://github.com/VitorRibeiro024) | 
+| Vitor Ribeiro | [Vitor's GitHub](https://github.com/VitorRibeiro024) | 
 
  
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="Raphs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Raphs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
-  <img align="center" alt="Raphs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Raphs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="center" alt="Raphs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Raphs-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">      
+<img align="center" alt="Raphs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+<img align="center" alt="Raphs-Flask" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" >
+
+<img align="center" alt="Raphs-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+
+<img align="center" alt="Raphs-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">      
 </div>
 
 ###
